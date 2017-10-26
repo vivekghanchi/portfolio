@@ -1,2 +1,2 @@
 # portfolio
-Portfolio template for programmers. 
+Portfolio template for Developers & Programmers.
